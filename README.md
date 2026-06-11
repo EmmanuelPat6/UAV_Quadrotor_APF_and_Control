@@ -1,6 +1,5 @@
-# Field and Service Robotics Final Project PATELLARO EMMANUEL P38000239 #
 # ✈️🚁 Modeling and Control of UAV Quadrotor using Hierarchical Control, Geometric Control and Passivity-Based Control with External Wrench Disturbances and APF Algorithm considering also some Aerodynamic Effects 🖥️🎯 #
-🗂️ This README file provides an overview of everything included in the repository and explains how it is organized.
+🗂️ This README file provides an overview of everything included in the repository and explains how it is organized. This work was developed for the final project of the Fields and Service Robotics Course held by Prof. Fabio Ruggiero
 
 ## Features 🪐 ##
 - Dynamic Model 🚀🤖 
